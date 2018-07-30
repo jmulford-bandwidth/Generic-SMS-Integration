@@ -1,0 +1,4 @@
+{
+  "from":"fake_email@sample.com",
+  "text":"This is a sample JSON text representing what could be sent from some other messaging API via a POST request"
+}
